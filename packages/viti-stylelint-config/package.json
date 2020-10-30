@@ -1,6 +1,6 @@
 {
-  "name": "@viti/stylelint-config",
-  "version": "0.1.0",
+  "name": "@viti-next/stylelint-config",
+  "version": "0.0.0",
   "description": "stylelint config of viti",
   "keywords": [
     "stylelint",
@@ -17,5 +17,6 @@
     "stylelint": "^13.7.2",
     "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-standard": "^20.0.0"
-  }
+  },
+  "gitHead": "87f24a86c3dfba62ef3c73e8ba7409d3d9386127"
 }

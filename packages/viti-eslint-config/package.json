@@ -1,6 +1,6 @@
 {
-  "name": "@viti/eslint-config",
-  "version": "0.1.0",
+  "name": "@viti-next/eslint-config",
+  "version": "0.0.0",
   "description": "eslint config of viti",
   "keywords": [
     "eslint",
@@ -26,5 +26,6 @@
     "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-vue": "^7.1.0"
-  }
+  },
+  "gitHead": "87f24a86c3dfba62ef3c73e8ba7409d3d9386127"
 }

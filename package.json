@@ -36,12 +36,12 @@
   "eslintConfig": {
     "root": true,
     "extends": [
-      "@viti"
+      "@viti-next"
     ]
   },
   "stylelint": {
     "extends": [
-      "@viti/stylelint-config"
+      "@viti-next/stylelint-config"
     ]
   },
   "devDependencies": {
