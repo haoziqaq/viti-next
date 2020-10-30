@@ -13,7 +13,8 @@
   "scripts": {
     "bootstrap": "yarn || npm i",
     "commit": "git-cz",
-    "publish": "lerna publish"
+    "publish": "lerna publish",
+    "genlog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
   "command": {
     "version": {

@@ -11,7 +11,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@user:haoziqaq/viti-test.git"
+    "url": "https://github.com/haoziqaq/viti-next.git"
   },
   "dependencies": {
     "stylelint": "^13.7.2",

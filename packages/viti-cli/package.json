@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@user:haoziqaq/viti-test.git"
+    "url": "https://github.com/haoziqaq/viti-next.git"
   },
   "scripts": {
     "dev": "tsc --watch"
