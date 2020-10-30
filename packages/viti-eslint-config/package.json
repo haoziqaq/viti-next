@@ -1,5 +1,5 @@
 {
-  "name": "@viti-next/eslint-config",
+  "name": "viti-eslint-config",
   "version": "0.0.1",
   "description": "eslint config of viti",
   "keywords": [
@@ -27,5 +27,5 @@
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-vue": "^7.1.0"
   },
-  "gitHead": "87f24a86c3dfba62ef3c73e8ba7409d3d9386127"
+  "gitHead": "6a34fb715e3540af46aeb4e123f69b92ee431938"
 }

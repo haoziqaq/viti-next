@@ -13,8 +13,7 @@
   "scripts": {
     "bootstrap": "yarn || npm i",
     "commit": "git-cz",
-    "publish": "lerna publish",
-    "genlog": "conventional-changelog -p angular -i CHANGELOG.md -s"
+    "publish": "lerna publish"
   },
   "config": {
     "commitizen": {
@@ -36,19 +35,18 @@
   "eslintConfig": {
     "root": true,
     "extends": [
-      "@viti-next"
+      "viti"
     ]
   },
   "stylelint": {
     "extends": [
-      "@viti-next/stylelint-config"
+      "viti-stylelint-config"
     ]
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
     "commitizen": "^4.2.2",
-    "conventional-changelog-cli": "^2.1.0",
     "cz-lerna-changelog": "^2.0.3",
     "husky": "^4.3.0",
     "lerna": "^3.22.1",

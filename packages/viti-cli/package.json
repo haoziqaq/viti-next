@@ -1,5 +1,5 @@
 {
-  "name": "@viti-next/cli",
+  "name": "viti-cli",
   "version": "0.0.1",
   "private": false,
   "description": "cli of viti",
@@ -20,5 +20,5 @@
   "scripts": {
     "dev": "tsc --watch"
   },
-  "gitHead": "87f24a86c3dfba62ef3c73e8ba7409d3d9386127"
+  "gitHead": "6a34fb715e3540af46aeb4e123f69b92ee431938"
 }
