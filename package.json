@@ -3,7 +3,7 @@
   "private": true,
   "useWorkspaces": true,
   "version": "0.0.0",
-  "author": "haoziqaq <357229046@qq.com>!",
+  "author": "haoziqaq <357229046@qq.com>",
   "main": "index.js",
   "npmClient": "yarn",
   "workspaces": [
