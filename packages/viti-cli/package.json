@@ -1,0 +1,22 @@
+{
+  "name": "@viti/cli",
+  "version": "0.0.1",
+  "description": "cli of viti",
+  "keywords": [
+    "cli",
+    "viti"
+  ],
+  "author": "haoziqaq <357229046@qq.com>",
+  "license": "MIT",
+  "main": "lbd/index.js",
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@user:haoziqaq/viti-test.git"
+  },
+  "scripts": {
+    "dev": "tsc --watch"
+  }
+}
