@@ -1,0 +1,14 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# 0.2.0 (2020-10-30)
+
+### Bug Fixes
+
+- **packages/viti-cli packages/viti-eslint-config packages/viti-stylelint-config:** 修改了 package.json 的描 ([7f81fff](https://github.com/haoziqaq/viti-next/commit/7f81fff7c0e78c6ecc44afed70b1bcac950b4a5a))
+
+### Features
+
+- **仓库初始化:** 仓库初始化操作,做了有关构建,发布,规范化的工作 ([b232b05](https://github.com/haoziqaq/viti-next/commit/b232b05aa26221aad8ddd6256cd9a6b7cdb79d60))
