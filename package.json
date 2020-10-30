@@ -16,11 +16,6 @@
     "publish": "lerna publish",
     "genlog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
-  "command": {
-    "version": {
-      "conventionalCommits": true
-    }
-  },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-lerna-changelog"
@@ -29,7 +24,7 @@
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged",
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS && conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md && git commit -m 'log' --no-verify"
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
   "lint-staged": {
